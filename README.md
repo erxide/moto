@@ -4,10 +4,9 @@ For run server:
 
 - clone project
 
-- ```bash
+```bash
 cd page
 ```
-
-- ```bash
+```bash
 python3 -m http.server 8080
 ```
