@@ -1,0 +1,41 @@
+/***** CSS *******/
+
+body{
+	font-family: 'Century Gothic', Calibri, lime;
+	font-size: 35px;
+	text-align:center;
+    background: repeating-radial-gradient(farthest-side ellipse at center, #05c5ff, #ff7a00, #c500f9 80px);
+
+};
+}
+
+h1,h2{
+	font-weight: normal;
+	<h1 class="rainbow-text">Rainbow</h1>
+}
+
+h4 {
+    text-transform: uppercase;
+    color: rgb(0,90,255);
+}
+
+p {
+    text-indent: 50px;
+    letter-spacing: 1px;
+}
+img{
+	width: 25%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+a {
+    text-decoration: none;
+    color: #008CBA;
+}
+footer{
+	height: 80px;
+	padding-top: 30px;
+	text-align: center;
+	background-color: #C5C5C5;
+	border-top: 2px solid #AAA;
+}
